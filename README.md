@@ -1,24 +1,14 @@
 # banks-management-system
 
-## Project setup
+一个刷题的 app
+
+## 使用
 ```
-npm install
+npm i && npm run electron:serve
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 打包
 
-### Compiles and minifies for production
 ```
-npm run build
+npm i && npm run electron:build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
